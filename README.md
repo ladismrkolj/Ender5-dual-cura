@@ -1,6 +1,6 @@
 # TrcekCuraProfiles
-##File root
+## File root
 Taken from *%APPDATA%\cura\<Cura version>\*
 
-##Materials
+## Materials
 Please find Plastika Trček® material profiles in [/materials](/materials) folder
