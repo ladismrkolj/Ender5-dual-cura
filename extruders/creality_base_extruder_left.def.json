@@ -10,12 +10,13 @@
     "overrides": {
         "extruder_nr": {
             "default_value": 1,
-            "maximum_value": "1"
+            "maximum_value": 1
         },
         "machine_nozzle_offset_x": { "default_value": 0 },
         "machine_nozzle_offset_y": { "default_value": 0 },
         "machine_nozzle_size": { "default_value": 0.4 },
-        "material_diameter": { "default_value": 1.75 }
+        "material_diameter": { "default_value": 1.75 },
+        "machine_extruder_end_code": { "default_value": "G0 X{prime_tower_position_x} Y{prime_tower_position_y}" }
         
     }
 }
